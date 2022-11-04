@@ -16,10 +16,11 @@ If I helped you ace your interviews or you wanna help me out, you can [support m
 
 - [CS Fundamentals](./cs_fundamentals.md)
   - Language fundamentals
-  - Data structures
   - Operating Systems
   - Compilers
 - [Algorithms](./algorithms.md)
+  - Data structures
+  - Types of questions
 - [System Design](./system_design.md)
 - [The Interview Process](./interview_process.md)
 - [Additional Topics](./additional_topics.md)
